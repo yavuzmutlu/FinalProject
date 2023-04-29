@@ -1,5 +1,7 @@
 ﻿using DataAccess.Abstract;
 using Entities.Conctrete;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace DataAccess.Concrete.InMemory
 {
